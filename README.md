@@ -1,5 +1,6 @@
 # Snake-cpp
 A simple yet interesting terminal based snake game using C++. 
+<br>
 **How to get started:**
 
 - Fork and clone repo
